@@ -11,7 +11,7 @@ WHITE='\033[1;37m'
 NC='\033[0m' # Без цвета
 
 # Основная директория с папками конфигураций OpenVPN
-BASE_VPN_DIR="/mnt/cactus_spike1/VPN/"
+BASE_VPN_DIR="./"
 CREDENTIALS_FILE="$HOME/.vpn_credentials.gpg"
 
 # Функция для создания заголовка с анимацией
